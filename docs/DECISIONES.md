@@ -149,12 +149,12 @@ Cada decisión debe incluir identificador, fecha, estado, contexto, decisión, m
 ## DEC-015 — Repositorio público o privado
 
 - Fecha: 2026-07-23
-- Estado: Propuesta
+- Estado: Aprobada
 - Contexto: El repositorio puede incluir desempeño personal.
-- Decisión: Propuesta inicial: privado.
-- Motivo: Protege registros académicos y referencias privadas.
-- Impacto: Publicación requiere revisión de contenido sensible.
-- Condiciones de revisión: Decisión explícita antes de publicar.
+- Decisión: El repositorio será público.
+- Motivo: El repositorio no contiene información personal sensible ni material protegido, y la visibilidad pública facilita el acceso consistente desde ChatGPT.
+- Impacto: Los chats del proyecto podrán consultar la rama main sin depender de permisos especiales para repositorios privados.
+- Condiciones de revisión: Cambiar a privado si en el futuro se agregan datos personales, resultados sensibles, credenciales o material con restricciones de distribución.
 
 ## DEC-016 — Calendario definitivo de repetición espaciada
 
@@ -170,5 +170,4 @@ Cada decisión debe incluir identificador, fecha, estado, contexto, decisión, m
 
 - DEC-013 — Umbral definitivo de aprobación.
 - DEC-014 — Duración definitiva de módulos.
-- DEC-015 — Repositorio público o privado.
 - DEC-016 — Calendario definitivo de repetición espaciada.
