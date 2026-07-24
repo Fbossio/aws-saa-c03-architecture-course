@@ -1,0 +1,55 @@
+version: 1
+questions:
+  - id: EXAMPLE-001
+    module: null
+    domain: "Dominio 2"
+    task: "Tarea 2.1"
+    type: "opcion_multiple"
+    difficulty: "D1"
+    prompt: "Ejemplo no calificado: una aplicación recibe picos impredecibles y el consumidor puede procesar mensajes de forma asíncrona. ¿Qué patrón conviene evaluar primero?"
+    select: 1
+    options:
+      A: "Acoplar productor y consumidor con llamadas síncronas directas."
+      B: "Usar una cola para desacoplar productor y consumidor."
+      C: "Aumentar manualmente la capacidad fija antes de cada pico."
+      D: "Eliminar reintentos para evitar duplicados."
+    correct_answers:
+      - B
+    rationale: "Las soluciones no deben mostrarse al participante antes del intento. Este ejemplo ilustra el esquema."
+    distractor_analysis:
+      A: "Mantiene acoplamiento temporal."
+      B: "Introduce desacoplamiento y absorbe variabilidad."
+      C: "Puede funcionar, pero no responde bien a imprevisibilidad."
+      D: "Reduce resiliencia y no resuelve la carga variable."
+    tags:
+      - ejemplo
+      - no_calificado
+    source_refs: []
+    status: "ilustrativo"
+  - id: EXAMPLE-002
+    module: null
+    domain: "Dominio 1"
+    task: "Tarea 1.1"
+    type: "respuesta_multiple"
+    difficulty: "D2"
+    prompt: "Ejemplo no calificado: selecciona dos prácticas generales que apoyan acceso seguro a recursos."
+    select: 2
+    options:
+      A: "Aplicar mínimo privilegio."
+      B: "Compartir credenciales de larga duración entre equipos."
+      C: "Usar roles cuando corresponda para permisos temporales."
+      D: "Dar permisos administrativos para evitar bloqueos."
+    correct_answers:
+      - A
+      - C
+    rationale: "Las respuestas y explicación deben ocultarse antes del intento."
+    distractor_analysis:
+      A: "Reduce permisos innecesarios."
+      B: "Aumenta riesgo operativo y de seguridad."
+      C: "Reduce exposición de credenciales permanentes."
+      D: "Contradice mínimo privilegio."
+    tags:
+      - ejemplo
+      - no_calificado
+    source_refs: []
+    status: "ilustrativo"
