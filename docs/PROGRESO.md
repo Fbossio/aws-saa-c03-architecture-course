@@ -8,15 +8,15 @@ Fecha inicial: 2026-07-23
 
 Fase actual: Fase 0 — Orientación y contexto
 
-Estado general: Gobierno documental inicial creado; módulos pendientes.
+Estado general: Módulo 1 completado; Módulo 2 pendiente.
 
-Próximo objetivo: diseñar e iniciar el Módulo 1.
+Próximo objetivo: iniciar el Módulo 2.
 
 ## Tablero de módulos
 
 | N.º | Módulo | Contenido | Evaluación conceptual | Caso arquitectónico | Repaso | Resultado | Estado |
 |---:|---|:---:|:---:|:---:|:---:|---:|---|
-| 1 | Mapa de una arquitectura AWS | — | — | — | — | — | Pendiente |
+| 1 | Mapa de una arquitectura AWS | Completado | Completada | Evolucionado | No programado | 92,9 % | Completado |
 | 2 | Cómo piensa un Solutions Architect | — | — | — | — | — | Pendiente |
 | 3 | Los cuatro ejes del examen | — | — | — | — | — | Pendiente |
 | 4 | Infraestructura global y alcance de los servicios | — | — | — | — | — | Pendiente |
@@ -90,8 +90,8 @@ Próximo objetivo: diseñar e iniciar el Módulo 1.
 ## Próximas acciones
 
 1. Revisar y aprobar el diseño inicial del curso.
-2. Diseñar el Módulo 1.
-3. Crear la carpeta del Módulo 1 solo cuando se inicie.
+2. Iniciar el Módulo 2 — Cómo piensa un Solutions Architect.
+3. Mantener pendiente el Hito 1 hasta completar los módulos 1 a 4.
 
 ## Dominios fuertes
 
@@ -110,3 +110,4 @@ No hay revisiones programadas todavía.
 | Fecha | Sesión | Resultado |
 |---|---|---|
 | 2026-07-23 | Inicialización documental | Creación inicial del repositorio y documentos maestros |
+| 2026-07-28 | Módulo 01 — Mapa de una arquitectura AWS | Completado, evaluación formal 92,9 % |

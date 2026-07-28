@@ -32,6 +32,9 @@
 - Priorizar criterios y patrones.
 - Evaluar la mejor respuesta, no solo una respuesta técnicamente posible.
 - No mostrar soluciones antes del intento.
+- Cuando se muestre un ejemplo del formato de respuesta, debe usar una combinación aleatoria que no reproduzca deliberadamente la clave correcta.
+- El ejemplo de formato debe advertir que no está relacionado con la solución.
+- La combinación de ejemplo debe respetar sintácticamente el formato solicitado, pero no debe proporcionar pistas semánticas.
 
 ## Umbral inicial propuesto
 

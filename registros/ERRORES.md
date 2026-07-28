@@ -2,7 +2,7 @@
 
 | Fecha | Módulo | Pregunta | Elección | Correcta | Causa | Regla de decisión | Revisar |
 |---|---|---|---|---|---|---|---|
-| Sin registro | Sin módulo | Sin pregunta | Sin elección | Sin correcta | Sin intento | Sin regla registrada | No programado |
+| 2026-07-28 | 01 | Evaluación conceptual, pregunta 6 | A | A y B | Restricción ignorada | Antes de responder, verificar si la pregunta es de respuesta múltiple y seleccionar exactamente la cantidad solicitada. | Módulo 02 o próxima evaluación con respuesta múltiple |
 
 ## Causas normalizadas
 

@@ -66,6 +66,8 @@ Usar un escenario acumulativo cuando aporte razonamiento arquitectónico.
 
 Incluir decisiones cortas centradas en requisito dominante y descarte de distractores.
 
+Si se incluye un ejemplo de formato de respuesta, debe ser neutral, aleatorio, no coincidir deliberadamente con la clave e indicar que no está relacionado con la solución.
+
 ## 12. Evaluación conceptual
 
 Para cada pregunta incluir:
@@ -76,9 +78,13 @@ Para cada pregunta incluir:
 - espacio para respuesta;
 - no incluir la solución en la misma sección visible antes del intento.
 
+Si se incluye un ejemplo de formato de respuesta, debe ser neutral, aleatorio, no coincidir deliberadamente con la clave e indicar que no está relacionado con la solución.
+
 ## 13. Evaluación arquitectónica
 
 Evaluar selección de diseño, riesgos, trade-offs y descarte de opciones.
+
+Si se incluye un ejemplo de formato de respuesta, debe ser neutral, aleatorio, no coincidir deliberadamente con la clave e indicar que no está relacionado con la solución.
 
 ## 14. Feedback y refuerzo
 

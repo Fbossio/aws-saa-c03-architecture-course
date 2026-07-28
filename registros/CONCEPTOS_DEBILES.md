@@ -2,7 +2,7 @@
 
 | Concepto | Primer error | Último error | Frecuencia | Severidad | Próxima revisión | Estado |
 |---|---|---|---:|---|---|---|
-| Sin evidencia registrada | Sin error | Sin error | 0 | Sin clasificar | No programada | Nuevo |
+| Lectura de instrucciones en preguntas de respuesta múltiple | Módulo 01, evaluación conceptual, pregunta 6 | Módulo 01, evaluación conceptual, pregunta 6 | 1 | Baja | Módulo 02 o próxima evaluación múltiple | Nuevo |
 
 ## Estados
 

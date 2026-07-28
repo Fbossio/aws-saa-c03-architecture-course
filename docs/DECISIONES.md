@@ -166,6 +166,16 @@ Cada decisión debe incluir identificador, fecha, estado, contexto, decisión, m
 - Impacto: Afecta evaluaciones acumulativas.
 - Condiciones de revisión: Evidencia de olvido o sobrecarga.
 
+## DEC-017 — Neutralidad de los ejemplos de formato de respuesta
+
+- Fecha: 2026-07-28
+- Estado: Aprobada
+- Contexto: Durante el Módulo 01, ejemplos destinados únicamente a mostrar el formato coincidieron con las respuestas correctas y podían proporcionar pistas.
+- Decisión: Los ejemplos de formato deben utilizar combinaciones aleatorias y no deben reproducir deliberadamente la clave correcta. Deben indicar de forma explícita que no están relacionados con la solución.
+- Motivo: Preservar la validez de la evaluación y evitar pistas involuntarias.
+- Impacto: Aplica a mini retos, evaluaciones conceptuales, evaluaciones arquitectónicas, refuerzos y simulacros.
+- Condiciones de revisión: Cambio a un mecanismo de captura de respuestas que no necesite ejemplos.
+
 ## Decisiones pendientes
 
 - DEC-013 — Umbral definitivo de aprobación.

@@ -26,7 +26,7 @@ No se usarán SDK, CLI, consola ni despliegues reales.
 
 ## Estado inicial
 
-Caso base sin arquitectura definitiva.
+Caso base evolucionado conceptualmente en el Módulo 01, todavía sin arquitectura definitiva.
 
 ## Preguntas abiertas
 
@@ -38,10 +38,12 @@ Caso base sin arquitectura definitiva.
 
 Evaluar API Gateway, Lambda, S3, SQS, SNS, EventBridge, Step Functions, DynamoDB y RDS cuando corresponda.
 
+Estos servicios no han sido seleccionados como decisión final; se mantienen pendientes para módulos posteriores.
+
 ## Módulos relacionados
 
 5, 6, 9, 12, 14, 16, 18, 22, 25 y 26.
 
 ## Historial de evolución
 
-Sin decisiones incorporadas todavía.
+- 2026-07-28 — Módulo 01: recepción y procesamiento se separan conceptualmente; el trabajo aceptado debe persistirse antes de confirmarse; se requiere estado observable del procesamiento; backlog y antigüedad son señales operativas relevantes; todavía no se seleccionan API Gateway, S3, SQS, Lambda, DynamoDB, RDS, SNS, EventBridge ni Step Functions; las decisiones concretas quedan pendientes de módulos posteriores.
