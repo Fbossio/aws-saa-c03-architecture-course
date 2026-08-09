@@ -8,16 +8,16 @@ Fecha inicial: 2026-07-23
 
 Fase actual: Fase 0 — Orientación y contexto
 
-Estado general: Módulo 1 completado; Módulo 2 pendiente.
+Estado general: Módulos 1 y 2 completados; Módulo 3 pendiente.
 
-Próximo objetivo: iniciar el Módulo 2.
+Próximo objetivo: iniciar el Módulo 03 — Los cuatro ejes del examen.
 
 ## Tablero de módulos
 
 | N.º | Módulo | Contenido | Evaluación conceptual | Caso arquitectónico | Repaso | Resultado | Estado |
 |---:|---|:---:|:---:|:---:|:---:|---:|---|
 | 1 | Mapa de una arquitectura AWS | Completado | Completada | Evolucionado | No programado | 92,9 % | Completado |
-| 2 | Cómo piensa un Solutions Architect | — | — | — | — | — | Pendiente |
+| 2 | Cómo piensa un Solutions Architect | Completado | Completada | Evolucionado | No programado | 100 % | Completado |
 | 3 | Los cuatro ejes del examen | — | — | — | — | — | Pendiente |
 | 4 | Infraestructura global y alcance de los servicios | — | — | — | — | — | Pendiente |
 | 5 | Identidad, políticas y roles | — | — | — | — | — | Pendiente |
@@ -89,8 +89,8 @@ Próximo objetivo: iniciar el Módulo 2.
 
 ## Próximas acciones
 
-1. Revisar y aprobar el diseño inicial del curso.
-2. Iniciar el Módulo 2 — Cómo piensa un Solutions Architect.
+1. Iniciar el Módulo 03 — Los cuatro ejes del examen.
+2. Mantener el seguimiento del concepto débil de respuesta múltiple en una evaluación futura.
 3. Mantener pendiente el Hito 1 hasta completar los módulos 1 a 4.
 
 ## Dominios fuertes
@@ -111,3 +111,4 @@ No hay revisiones programadas todavía.
 |---|---|---|
 | 2026-07-23 | Inicialización documental | Creación inicial del repositorio y documentos maestros |
 | 2026-07-28 | Módulo 01 — Mapa de una arquitectura AWS | Completado, evaluación formal 92,9 % |
+| 2026-08-08 | Módulo 02 — Cómo piensa un Solutions Architect | Completado, evaluación formal 100 % |
