@@ -8,9 +8,9 @@ Fecha inicial: 2026-07-23
 
 Fase actual: Fase 0 — Orientación y contexto
 
-Estado general: Módulos 1 y 2 completados; Módulo 3 pendiente.
+Estado general: Módulos 1, 2 y 3 completados; Módulo 4 pendiente.
 
-Próximo objetivo: iniciar el Módulo 03 — Los cuatro ejes del examen.
+Próximo objetivo: iniciar el Módulo 04 — Infraestructura global y alcance de los servicios.
 
 ## Tablero de módulos
 
@@ -18,7 +18,7 @@ Próximo objetivo: iniciar el Módulo 03 — Los cuatro ejes del examen.
 |---:|---|:---:|:---:|:---:|:---:|---:|---|
 | 1 | Mapa de una arquitectura AWS | Completado | Completada | Evolucionado | No programado | 92,9 % | Completado |
 | 2 | Cómo piensa un Solutions Architect | Completado | Completada | Evolucionado | No programado | 100 % | Completado |
-| 3 | Los cuatro ejes del examen | — | — | — | — | — | Pendiente |
+| 3 | Los cuatro ejes del examen | Completado | Completada | Evolucionado | No programado | 100 % | Completado |
 | 4 | Infraestructura global y alcance de los servicios | — | — | — | — | — | Pendiente |
 | 5 | Identidad, políticas y roles | — | — | — | — | — | Pendiente |
 | 6 | Protección de datos, cifrado y secretos | — | — | — | — | — | Pendiente |
@@ -89,9 +89,9 @@ Próximo objetivo: iniciar el Módulo 03 — Los cuatro ejes del examen.
 
 ## Próximas acciones
 
-1. Iniciar el Módulo 03 — Los cuatro ejes del examen.
-2. Mantener el seguimiento del concepto débil de respuesta múltiple en una evaluación futura.
-3. Mantener pendiente el Hito 1 hasta completar los módulos 1 a 4.
+1. Iniciar el Módulo 04 — Infraestructura global y alcance de los servicios.
+2. Mantener pendiente el Hito 1 hasta completar el Módulo 04.
+3. El concepto débil de lectura de instrucciones en respuesta múltiple queda dominado tras evidencia positiva en los módulos 02 y 03.
 
 ## Dominios fuertes
 
@@ -112,3 +112,4 @@ No hay revisiones programadas todavía.
 | 2026-07-23 | Inicialización documental | Creación inicial del repositorio y documentos maestros |
 | 2026-07-28 | Módulo 01 — Mapa de una arquitectura AWS | Completado, evaluación formal 92,9 % |
 | 2026-08-08 | Módulo 02 — Cómo piensa un Solutions Architect | Completado, evaluación formal 100 % |
+| 2026-11-22 | Módulo 03 — Los cuatro ejes del examen | Completado, evaluación formal 100 % |
