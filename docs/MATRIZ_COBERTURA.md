@@ -21,6 +21,13 @@
 
 Estados permitidos: Pendiente, Parcial, Cubierta, Evaluada, Revisada.
 
+### Evidencia introductoria del Módulo 04
+
+- Dominio 1, tarea 1.1: contexto de infraestructura global y ubicación de recursos para el análisis posterior de acceso seguro.
+- Dominio 2, tarea 2.2: introducción al aislamiento de fallos y a la diferencia entre Multi-AZ y Multi-Region.
+- Dominio 3, tarea 3.4: refuerzo evaluado sobre ubicación, latencia, Edge Locations, AWS Local Zones y AWS Global Accelerator. La evaluación corresponde al alcance del módulo y la tarea conserva su estado Pendiente.
+- Dominio 4: el costo se introdujo como criterio transversal de selección geográfica. Las tareas de optimización de costos conservan su estado Pendiente.
+
 ## Cobertura por patrón arquitectónico
 
 | Patrón | Módulos principales | Estado |
@@ -59,6 +66,8 @@ Estados permitidos: Pendiente, Parcial, Cubierta, Evaluada, Revisada.
 | Ingesta | 25 | Pendiente |
 | Observabilidad | 26, 27 | Pendiente |
 
+Evidencia introductoria del Módulo 04: Multi-AZ y aislamiento de fallos zonales, Multi-Region ante fallos regionales, CDN para contenido reutilizable, selección geográfica por restricciones y optimización de latencia según el recorrido del tráfico. La evaluación de estrategias de DR, RPO, RTO y replicación corresponde a los módulos posteriores asignados.
+
 ## Cobertura por familia de servicios
 
 | Familia | Módulos principales | Estado |
@@ -75,3 +84,5 @@ Estados permitidos: Pendiente, Parcial, Cubierta, Evaluada, Revisada.
 | Migración | 21, 26, 27 | Pendiente |
 | Análisis | 25 | Pendiente |
 | Costos | 22, 23, 24 | Pendiente |
+
+El Módulo 04 aporta fundamentos de infraestructura global y redes. La familia Redes conserva su estado Pendiente.

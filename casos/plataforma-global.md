@@ -44,4 +44,27 @@ Evaluar CloudFront, Global Accelerator, Route 53, replicación, Multi-Region y c
 
 ## Historial de evolución
 
-Sin decisiones incorporadas todavía.
+### 2026-11-24 — Módulo 04: Infraestructura global y alcance de los servicios
+
+Evolución conceptual del Caso C, con arquitectura definitiva pendiente.
+
+1. Filtrar la ubicación del backend por las restricciones obligatorias de residencia de datos y por la disponibilidad de los servicios requeridos.
+2. Comparar latencia y costos entre las regiones viables.
+3. Evaluar Amazon CloudFront para distribuir contenido reutilizable desde un origen existente y evitar duplicar toda la aplicación por motivos de latencia.
+4. Identificar qué componentes críticos comparten un mismo dominio de fallo.
+5. Considerar Multi-AZ para mitigar fallos zonales cuando los componentes, los datos y los mecanismos de failover estén preparados para mantener el servicio.
+6. La justificación de Multi-Region activo-activo sigue pendiente de un requisito de continuidad o latencia que compense su complejidad.
+7. Amazon CloudFront puede aliviar la carga del origen mediante caché. La recuperación completa del backend exige una estrategia propia.
+8. Profundizar en AWS Global Accelerator, replicación, consistencia, recuperación y costos de transferencia en los módulos posteriores.
+
+#### Decisiones pendientes
+
+- Región definitiva y arquitectura definitiva del backend.
+- Servicio de almacenamiento definitivo.
+- Estrategias de replicación y Multi-Region.
+- Objetivos RPO y RTO.
+- Políticas de consistencia.
+- Costos reales de transferencia.
+- Estrategia completa de failover.
+
+Las alternativas se conservan para el análisis acumulativo del caso. La selección de servicios para producción queda pendiente.
